@@ -1,1 +1,3 @@
-# space-x-launches-sdk
+# SpaceXLaunchesSDKPackage
+
+A description of this package.
